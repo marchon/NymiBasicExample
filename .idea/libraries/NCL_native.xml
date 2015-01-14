@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="NCL.native">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/NCL.native.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

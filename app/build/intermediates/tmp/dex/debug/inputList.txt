@@ -1,0 +1,2 @@
+/Users/tgs/AndroidStudioProjects/BasicExample1/app/build/intermediates/classes/debug
+/Users/tgs/AndroidStudioProjects/BasicExample1/app/build/intermediates/pre-dexed/debug/NCL.native-3d73d8b5fec8232ef64fb793e4e106772dbaa84a.jar
