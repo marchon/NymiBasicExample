@@ -8,4 +8,10 @@ Changed to interface to a Nymi band:
 	Updated jar: Removed NCL.net.jar, Added NCL.native.jar
 	Invalidated caches in Android Studio, restarted Studio
 	Updated app/build.gradle - 
-		Replaced entry "compile files('libs/NCL.net.jar')" with "compile files('libs/NCL.native.jar')" 
+		Replaced entry "compile files('libs/NCL.net.jar')" with "compile files('libs/NCL.native.jar')"
+
+Using app to provision a band has intermittent success.  
+Using a Samsung Galaxy Tab4, SM-T230NU, 4.4.2, Build KOT49H the app ALWAYS disconnects during the 'Agree' step.
+Using a Samsung Galaxy S3, 4.4.2 the app is successful about half the time.
+
+ 
